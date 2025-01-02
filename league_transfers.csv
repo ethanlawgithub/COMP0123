@@ -1,0 +1,144 @@
+Source,Target,Weight
+Bundesliga,Bundesliga,217
+Bundesliga,Championship,14
+Bundesliga,Eredivisie,27
+Bundesliga,Ligue 1,44
+Bundesliga,Other,161
+Bundesliga,Premier League,40
+Bundesliga,Russian PL,10
+Bundesliga,Liga Portugal,11
+Bundesliga,La Liga,16
+Bundesliga,Belgian Pro League,18
+Bundesliga,Serie A,27
+Bundesliga,Super League Greece,3
+Bundesliga,Super Lig,5
+Championship,Bundesliga,27
+Championship,Championship,336
+Championship,Eredivisie,10
+Championship,Ligue 1,21
+Championship,Other,199
+Championship,Premier League,250
+Championship,Russian PL,3
+Championship,Liga Portugal,11
+Championship,La Liga,16
+Championship,Belgian Pro League,17
+Championship,Serie A,15
+Championship,Super League Greece,5
+Championship,Super Lig,12
+Eredivisie,Bundesliga,57
+Eredivisie,Championship,31
+Eredivisie,Eredivisie,192
+Eredivisie,Ligue 1,21
+Eredivisie,Other,237
+Eredivisie,Premier League,33
+Eredivisie,Russian PL,10
+Eredivisie,Liga Portugal,9
+Eredivisie,La Liga,20
+Eredivisie,Belgian Pro League,34
+Eredivisie,Serie A,32
+Eredivisie,Super League Greece,12
+Eredivisie,Super Lig,23
+Ligue 1,Bundesliga,36
+Ligue 1,Championship,11
+Ligue 1,Eredivisie,14
+Ligue 1,Ligue 1,241
+Ligue 1,Other,185
+Ligue 1,Premier League,62
+Ligue 1,Russian PL,7
+Ligue 1,Liga Portugal,25
+Ligue 1,La Liga,37
+Ligue 1,Belgian Pro League,26
+Ligue 1,Serie A,54
+Ligue 1,Super League Greece,5
+Ligue 1,Super Lig,12
+Premier League,Bundesliga,35
+Premier League,Championship,99
+Premier League,Eredivisie,14
+Premier League,Ligue 1,63
+Premier League,Other,89
+Premier League,Premier League,152
+Premier League,Russian PL,3
+Premier League,Liga Portugal,24
+Premier League,La Liga,50
+Premier League,Belgian Pro League,14
+Premier League,Serie A,41
+Premier League,Super League Greece,7
+Premier League,Super Lig,2
+Russian PL,Bundesliga,5
+Russian PL,Championship,3
+Russian PL,Eredivisie,10
+Russian PL,Ligue 1,12
+Russian PL,Other,342
+Russian PL,Premier League,6
+Russian PL,Russian PL,348
+Russian PL,Liga Portugal,17
+Russian PL,La Liga,1
+Russian PL,Belgian Pro League,5
+Russian PL,Serie A,7
+Russian PL,Super League Greece,3
+Russian PL,Super Lig,9
+Liga Portugal,Bundesliga,10
+Liga Portugal,Championship,5
+Liga Portugal,Eredivisie,7
+Liga Portugal,Ligue 1,42
+Liga Portugal,Other,439
+Liga Portugal,Premier League,32
+Liga Portugal,Russian PL,5
+Liga Portugal,Liga Portugal,193
+Liga Portugal,La Liga,47
+Liga Portugal,Belgian Pro League,11
+Liga Portugal,Serie A,18
+Liga Portugal,Super League Greece,12
+Liga Portugal,Super Lig,14
+La Liga,Bundesliga,27
+La Liga,Championship,21
+La Liga,Eredivisie,10
+La Liga,Ligue 1,42
+La Liga,Other,142
+La Liga,Premier League,74
+La Liga,Russian PL,7
+La Liga,Liga Portugal,41
+La Liga,La Liga,298
+La Liga,Belgian Pro League,5
+La Liga,Serie A,42
+La Liga,Super League Greece,2
+La Liga,Super Lig,8
+Serie A,Bundesliga,34
+Serie A,Championship,18
+Serie A,Eredivisie,25
+Serie A,Ligue 1,52
+Serie A,Other,248
+Serie A,Premier League,64
+Serie A,Russian PL,17
+Serie A,Liga Portugal,16
+Serie A,La Liga,41
+Serie A,Belgian Pro League,26
+Serie A,Serie A,566
+Serie A,Super League Greece,6
+Serie A,Super Lig,12
+Super League Greece,Bundesliga,13
+Super League Greece,Championship,14
+Super League Greece,Eredivisie,14
+Super League Greece,Ligue 1,27
+Super League Greece,Other,455
+Super League Greece,Premier League,19
+Super League Greece,Russian PL,11
+Super League Greece,Liga Portugal,28
+Super League Greece,La Liga,37
+Super League Greece,Belgian Pro League,10
+Super League Greece,Serie A,14
+Super League Greece,Super League Greece,193
+Super League Greece,Super Lig,26
+Super Lig,Bundesliga,39
+Super Lig,Championship,32
+Super Lig,Eredivisie,27
+Super Lig,Ligue 1,62
+Super Lig,Other,563
+Super Lig,Premier League,50
+Super Lig,Russian PL,28
+Super Lig,Liga Portugal,51
+Super Lig,La Liga,38
+Super Lig,Belgian Pro League,19
+Super Lig,Serie A,62
+Super Lig,Super League Greece,33
+Super Lig,Super Lig,425
